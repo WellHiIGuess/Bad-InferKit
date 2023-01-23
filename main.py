@@ -1,5 +1,6 @@
 import json
 import random
+import make_data
 
 
 with open('data.json', 'r') as file:
